@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm width=1600 height="480")](https://rishavchanda.io)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Singh Mehra</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img  align ="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU" >
