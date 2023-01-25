@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/0KWv5WrE48sAAAAC/rainy-car.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm width=1600 height="480")](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Singh Mehra</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img  align ="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQA7rHkxCbTrhZjCevxZLUZRuKO-Bgb-LIA&usqp=CAU" >
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankit48142709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit48142709" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit singh mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit singh mehra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-singh-mehra-03a211245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit singh mehra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ankitsinghmehr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankitsinghmehr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ankitsinghmehra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ankitsinghmehra1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ankitsinghmehra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ankitsinghmehra1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anktsnghmeh01a&show_icons=true&locale=en" alt="anktsnghmeh01a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anktsnghmeh01a&" alt="anktsnghmeh01a" /></p>
-
